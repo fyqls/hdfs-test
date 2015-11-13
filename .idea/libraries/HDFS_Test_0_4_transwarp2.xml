@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="HDFS-Test-0.4-transwarp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/HDFS-Test-0.4-transwarp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,1 @@
+java -cp HDFS-Test-0.4-transwarp.jar:lib/commons-logging-1.1.3.jar:lib/hadoop-hdfs-2.5.2-transwarp.jar:lib/hadoop-common-2.5.2-transwarp.jar:lib/guava-11.0.2.jar:lib/commons-collections-3.2.1.jar:lib/commons-lang-2.6.jar:lib/commons-configuration-1.6.jar:lib/hadoop-auth-2.5.2-transwarp.jar:lib/slf4j-api-1.7.5.jar:lib/commons-cli-1.2.jar io.transwarp.hdfs.test.HDFSOperator
